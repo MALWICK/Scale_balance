@@ -11,7 +11,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-color: rgb(243, 240, 235);
+  background-color: #f3f0eb;
 }
 
 .container .heading {
@@ -22,7 +22,7 @@
 .container1 {
   width: 500px;
   height: 250px;
-  background-color: rgb(9, 62, 62);
+  background-color: #093e3e;
   display: flex;
   align-items: center;
   justify-content: center;
